@@ -23,9 +23,22 @@ Visit http://127.0.0.1:8000/data-analysis/data/ in your browser to access the Ec
 Make sure that you have the following  installed in your system:<br>
 Python<br>
 Django<br>
+
 Use the below code (in your console) to install libraries like Pandas, ydata_profiling, numpy, matplotlib,scikit-learn , scipy , seaborn.<br>
 ``pip install pandas``<br>
-Hope You Like our Project<br>
-Thankyou for your time :)
+
+## Usage Guidelines <br>
+Follow the setup steps mentioned above to ensure a smooth installation of the EconoInsight project. <br>
+Visit http://127.0.0.1:8000/data-analysis/data/ to explore the main Data Analysis section of EconoInsight.<br>
+Explore the interactive map to visualize GDP data across countries.Navigate through the Descriptive Statistics and Data Tab sections to understand the statistical distribution of economic indicators.Leverage the Pandas Data Profiling feature using the ydata_profiling library to gain insights into dataset characteristics.<br>
+Understand the Regression Analysis section for insights into the relationships between GDP and key economic indicators.<br>
+Experiment with changing variables and countries in the interactive map and plots to gain a deeper understanding of economic trends.Interpret the visualizations and data to draw conclusions about the impact of inflation, money supply, population, FDI, and exchange rates on GDP.<br>
+ explore the model predictions and understand how different variables contribute to the predictions.<br>
+ Have fun exploring EconoInsight and gaining valuable insights into economic indicators and their impact on GDP.
+
+
+
+> Hope You Like our Project<br>
+> Thankyou for your time :)
 
 
