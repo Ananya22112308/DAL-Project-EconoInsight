@@ -1,4 +1,8 @@
 # DAL-Project-EconoInsight <br>
+
+## Overview <br>
+The project aims to explore the determinants of economic growth in a range of countries, encompassing both developed and developing nations, each with its unique narrative. The primary focus is on essential economic indicators such as GDP, inflation, money supply, exchange rates, and foreign direct investment (FDI). These factors collectively contribute to assessing and understanding the overall economic well-being of a country.
+
 ## EconoInsight Project Setup <br>
 ### Extract Data Files<br>
 Download the Zip Folder of the Project and Unzip the data files into the appropriate folder. Make sure to download the CSV file named finaldata.<br>
