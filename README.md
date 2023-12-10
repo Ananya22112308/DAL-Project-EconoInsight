@@ -1,5 +1,5 @@
-# DAL-Project-EconoInsight
-##EconoInsight Project Setup
+# DAL-Project-EconoInsight <br>
+##EconoInsight Project Setup <br>
 ###Extract Data Files
 Download the Zip Folder of the Project and Unzip the data files into the appropriate folder. Make sure to download the CSV file named finaldata.
 ###Update File Paths
