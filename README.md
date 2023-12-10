@@ -5,7 +5,7 @@ The project aims to explore the determinants of economic growth in a range of co
 
 ## EconoInsight Project Setup <br>
 ### Extract Data Files<br>
-Download the Zip Folder of the Project and Unzip the data files into the appropriate folder. Make sure to download the CSV file named finaldata.<br>
+Download the Zip Folder(data_analysis_project_FINAL.zip) of the Project and Unzip the data files into the appropriate folder. Make sure to download the CSV file named finaldata.<br>
 ### Update File Paths<br>
 Update file paths in the Django settings and other relevant files to reflect the location of your data files and any other configurations. Make sure to change the File Path in the views.py file in the app folder.<br>
 ### Migrate Database<br>
